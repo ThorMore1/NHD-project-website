@@ -1,0 +1,9 @@
+@font-face {
+    font-family: tangosans;
+    src: url(assets/fonts/TangoSans.ttf);
+}
+
+body {
+
+    font-family: tangosans;
+}
